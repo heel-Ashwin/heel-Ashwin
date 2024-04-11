@@ -1,10 +1,10 @@
 ### Hi there 👋
 This is Ashwin/ash,currently undergoing a BTech degree under the domain of Computer Science with Specialization in Artificial Intelligence and Machine Learning at SRMIST.
-I'm have great knowledge and experience in C programming,Python,C++,HTML and SQL.
+I have great knowledge and experience in C programming,Python,C++,HTML and SQL.
 I'm currently exploring new skils under web development and problem solving.
 I'm looking to collaborate on any project with coding and sproblem solving projects,preferably under Python.
 If you want to contact me,give a mail to  ashwin2635@gmail.com  or text to  +91 8838825901 .
-Lets explore joy and tackle obstacles⚡.
+Lets explore and tackle obstacles⚡.
 
 <!--
 **heel-Ashwin/heel-Ashwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
