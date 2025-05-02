@@ -1,8 +1,12 @@
 ### Hi there 👋
 I'm Ashwin, a B.Tech Computer Science student specializing in AI & ML at SRMIST.
+
 Skilled in Python, C, C++, HTML, SQL, AI/ML, DBMS, Data Structures, and Data Analytics.
+
 Passionate about deepening my understanding of AI, LLMs, advanced DBMS concepts, and real-world data analytics.
+
 Open to collaborating on Python-based or problem-solving projects.
+
 Feel free to reach out via email or message.
 <!--
 **heel-Ashwin/heel-Ashwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
